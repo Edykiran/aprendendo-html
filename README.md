@@ -1,6 +1,6 @@
-# 🚀 Meus Estudos de HTML5
+# 🚀 Meus Estudos de HTML
 
-Bem-vindo(a) ao meu repositório de aprendizado! Este espaço foi criado para registrar minha evolução, anotar conceitos importantes e armazenar os exercícios práticos desenvolvidos enquanto aprendo as bases do **HTML5**.
+Bem-vindo(a) ao meu repositório de aprendizado! Este espaço foi criado para registrar minha evolução, anotar conceitos importantes e armazenar os exercícios práticos desenvolvidos enquanto aprendo as bases do **HTML**.
 
 ---
 
@@ -38,7 +38,7 @@ O objetivo deste projeto é documentar toda a minha jornada de estudos em desenv
 
 ## 🎯 Objetivo Pessoal
 
-Construir uma base sólida em front-end para avançar com confiança para estudos de **CSS3** e **JavaScript**, criando futuramente projetos web completos e responsivos.
+Construir uma base sólida em front-end para avançar com confiança para estudos de **CSS** e **JavaScript**, criando futuramente projetos web completos e responsivos.
 
 ---
 
