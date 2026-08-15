@@ -47,5 +47,26 @@
         <dd>JSP</dd>
     </dl>
 
+    <!-- link global -->
+     <a href=""https://google.com" <a/>
+
+     <!-- target é pra abrir em outra aba -->
+<a href="https://google.com" target="_blank">Google</a>
+
+<!-- link interno -->
+ <a href="#noticia">Notícia</a>
+
+ <!-- <h1 id="noticia">Notícia</h1> forma de linkar  -->
+
+ <!-- link externo -->
+  <a href="contato.html">Contato</a>
+
+  <h1>Exemplo de link interno</h1>
+  <p> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo tempore, vitae minus quo magnam dolor temporibus ad maxime sapiente dignissimos reprehenderit sequi quas tenetur vel numquam nisi expedita voluptatem qui!  </p>
+
+  
+  <h1 id="noticia">Notícia</h1>
+  <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus facilis animi repudiandae tempore nihil error. At, necessitatibus? Ut laudantium fugiat unde consequatur voluptas provident, nihil corporis. Sequi eligendi minima natus!</p>
+
 </body> 
 </html>
