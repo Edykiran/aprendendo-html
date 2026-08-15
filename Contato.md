@@ -11,7 +11,7 @@
     <p><a href="index.html">Voltar</a></p>
 
     <table border="1" width="100%"
-        <tr height="50">
+    <tr height="50">
         <td colspan="3" bgcolor="yellow">A</td>
     </tr>
     <tr>
